@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>我的网页</title>
+</head>
+<body>
+	<header>
+		<h1>欢迎来到我的网页</h1>
+		<nav>
+			<ul>
+				<li><a href="#">主页</a></li>
+				<li><a href="#">关于</a></li>
+				<li><a href="#">联系我们</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<h2>介绍</h2>
+		<p>这是一个简单的网页，它展示了如何使用 HTML 来构建网页。</p>
+
+		<h2>图片</h2>
+		<img src="https://picsum.photos/200" alt="随机图片">
+
+		<h2>列表</h2>
+		<ul>
+			<li>列表项 1</li>
+			<li>列表项 2</li>
+			<li>列表项 3</li>
+		</ul>
